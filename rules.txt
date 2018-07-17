@@ -26,21 +26,21 @@ The dev team is working on remaking the game in a new crossplatform engine. That
 
 Please report any issues, bugs and feature requests with Eden: Universe Builder (EDEN v3.0.0 BETA 1) at gitlab.com/EdenProject/Engine/issues
 
-Spamming and message flooding can be disruptive and annoying to other users, so please don't do it. 
+1: Spamming and message flooding can be disruptive and annoying to other users, so please don't do it. 
 
-1: Respect other members.
-Refrain from upsetting other users by insult, name calling, denigration, threats, or any form of harassment; there is no reason to act in that manner. This includes peoples' hardware and software choices, many of which are often dicated by personal limitations. If a mod finds your username to be inappropriate you will be asked to change it on this server. If you do not respond within a reasonable period of time (no more than 8 hours), you will be removed from the group (not banned). Feel free to re-join once your username has been changed.
+2: Respect other members.
+Refrain from upsetting other users by insult, name calling, denigration, threats, or any form of harassment; there is no reason to act in that manner. If a mod finds your username to be inappropriate you will be asked to change it on this server. 
 
-2: Read the channel topics before posting.
+3: Read the channel topics before posting.
 Channel topics can contain useful information or specific rules for the channel.
 
-3: Absolutely no NSFW or illegal content.
-No porn, gore, pirated software, or anything you wouldn't be caught doing at work. Nothing illegal is to be posted here. We judge the term "illegal" to mean anything not legal in nature inside the borders of the USA or most Europeans nations.
+4: Absolutely no NSFW or illegal content.
+No porn, gore, pirated software. Nothing illegal is to be posted here.
 
-4: Server-wide notifications.
-@everyone and @here (as well as any other "all-user" notifications) are not allowed on this server. By default they are disabled. If you have access to these functions, please let a moderator know.
+5: Server-wide notifications.
+everyone and here (as well as any other "all-user" notifications) are not allowed on this server. By default they are disabled. If you have access to these functions, please let a moderator know.
 
-5: Mods/Admin staff policy.
+6: Mods/Admin staff policy.
 A) Mods are on an invite-only basis. Please refrain from asking to be promoted.
 B) Mods know all. If you are kicked or banned by one mod, rest assured EVERY mod will know; there is no point in sending a PM to a mod to "let them know".
 C) Mods support the actions of all other mods in the group. If a mod makes a decision or takes action, all other mods will support it.
