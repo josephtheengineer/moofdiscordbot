@@ -1,3 +1,3 @@
-# DiscordBot
+# Discord
 
-The offical discord bot for the Eden: Universe Builder Server
+The offical discord bot and rules for the Eden: Universe Builder Server
