@@ -1,0 +1,14 @@
+{
+  "name": "infinityai-discord",
+  "version": "0.1.0",
+  "description": "AI Overlord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.MD",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
