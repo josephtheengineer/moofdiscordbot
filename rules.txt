@@ -1,3 +1,4 @@
+# MSG 1
 ==== Official Links ====
 Instagram: https://www.instagram.com/edengameofficial/
 Reddit: https://www.reddit.com/r/edengame
@@ -12,6 +13,36 @@ Repository for version 2.1.1 (latest 2.x.x version): https://github.com/ryankont
 Repository for version 3.0.0 (latest 3.x.x version): https://gitlab.com/EdenProject/Engine
 JosephTheEngineer's Twitter: https://twitter.com/JosephTheEngi
 
+# MSG 2
+**RULES**
+
+# MSG 3
+1: Spamming and message flooding can be disruptive and annoying to other users, so please don't do it. 
+
+# MSG 4
+2: Respect other members.
+Refrain from upsetting other users by insult, name calling, denigration, threats, or any form of harassment; there is no reason to act in that manner. If a mod finds your username to be inappropriate you will be asked to change it on this server. 
+
+# MSG 5
+3: Read the channel topics before posting.
+Channel topics can contain useful information or specific rules for the channel.
+
+# MSG 6
+4: Absolutely no NSFW or illegal content.
+No porn, gore, pirated software. Nothing illegal is to be posted on any channel.
+
+# MSG 7
+5: Server-wide notifications.
+everyone and here as well as any other "all-user" notifications are not allowed on this server.
+
+# MSG 8
+6: Mods/Admin staff policy.
+A) Mods are on an invite-only basis. Please refrain from asking to be promoted.
+B) Mods know all. If you are kicked or banned by one mod, rest assured EVERY mod will know.
+D) Mods have been chosen with great care. We do not consider the opinions or suggestions of non-mods when selecting new mods. Mods know what they are doing, and they read almost everything that gets posted in every channel; very little happens without the mods knowing about it.
+E) Mods take action as necessary. If you feel like action should be taken and isn't, privately message a mod but understand they are not required to placate every member and/or request.
+
+# MSG 9
 Welcome to the official Discord server for the continuation of Eden - an iOS game that was open sourced by its original creator Ari Ronen in early 2018. Major forks are currently licensed under the GNU General Public License v3 unless otherwise noted.
 
 ^^^ Scroll up for important links ^^^
@@ -26,23 +57,5 @@ The dev team is working on remaking the game in a new crossplatform engine. That
 
 Please report any issues, bugs and feature requests with Eden: Universe Builder (EDEN v3.0.0 BETA 1) at gitlab.com/EdenProject/Engine/issues
 
-1: Spamming and message flooding can be disruptive and annoying to other users, so please don't do it. 
-
-2: Respect other members.
-Refrain from upsetting other users by insult, name calling, denigration, threats, or any form of harassment; there is no reason to act in that manner. If a mod finds your username to be inappropriate you will be asked to change it on this server. 
-
-3: Read the channel topics before posting.
-Channel topics can contain useful information or specific rules for the channel.
-
-4: Absolutely no NSFW or illegal content.
-No porn, gore, pirated software. Nothing illegal is to be posted here.
-
-5: Server-wide notifications.
-everyone and here (as well as any other "all-user" notifications) are not allowed on this server. By default they are disabled. If you have access to these functions, please let a moderator know.
-
-6: Mods/Admin staff policy.
-A) Mods are on an invite-only basis. Please refrain from asking to be promoted.
-B) Mods know all. If you are kicked or banned by one mod, rest assured EVERY mod will know; there is no point in sending a PM to a mod to "let them know".
-C) Mods support the actions of all other mods in the group. If a mod makes a decision or takes action, all other mods will support it.
-D) Mods have been chosen with great care. We do not consider the opinions or suggestions of non-mods when selecting new mods. Mods know what they are doing, and they read almost everything that gets posted in every channel; very little happens without the mods knowing about it.
-E) Mods take action as necessary. If you feel like action should be taken and isn't, privately message a mod but understand they are not required to placate every member and/or request.
+# MSG 10
+Offical invite link: discord.me/EdenUniverseBuilder        OR         discord.gg/fJae5at
