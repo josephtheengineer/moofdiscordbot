@@ -5,8 +5,7 @@ const Discord = require('discord.js')
 // Create an instance of Discord that we will use to control the bot
 const bot = new Discord.Client();
 
-// Token for your bot, located in the Discord application console - https://discordapp.com/developers/applications/me/
-const token = 'MzYyMDY0MDA2OTg4NTYyNDM1.DdraIA.YEG6128qHHceoGoy88ZbELOeQ68'
+const config = require("./config.json");
 
 // Gets called when our bot is successfully logged in and connected
 bot.on('ready', () => {
@@ -44,4 +43,4 @@ bot.on('message', message => {
 });
 
 
-bot.login(token);
+bot.login(config.token);
