@@ -1,0 +1,48 @@
+==== Official Links ====
+Instagram: https://www.instagram.com/edengameofficial/
+Reddit: https://www.reddit.com/r/edengame
+Facebook: https://www.facebook.com/EdenWorldBuilder
+Official Website: https://edengame.net/
+Online World Search: https://app.edengame.net/search.html
+Popular List: http://edengame.net/popularlist.txt
+World Download: http://files.edengame.net/
+==== Devoloper Links ====
+Repository for version 2.1.0 (last update by Ari): https://github.com/JosephTheEngineer/Eden
+Repository for version 2.1.1 (latest 2.x.x version): https://github.com/ryankontos/EdenWorldBuilder
+Repository for version 3.0.0 (latest 3.x.x version): https://gitlab.com/EdenProject/Engine
+JosephTheEngineer's Twitter: https://twitter.com/JosephTheEngi
+
+Welcome to the official Discord server for the continuation of Eden - an iOS game that was open sourced by its original creator Ari Ronen in early 2018. Major forks are currently licensed under the GNU General Public License v3 unless otherwise noted.
+
+^^^ Scroll up for important links ^^^
+
+If you need some info about Eden, the Eden Wiki has a ton of information on pretty much everything including popular worlds, blocks, creatures, ect. It also needs some editing, so if anyone's every bored and wants to help, feel free to! edenworldbuilder.wikia.com
+
+If you need any help or have any questions metion a @Moderator! If you want to get a cool color for your username ping a @Moderator  with the color that you want!
+
+Popular List submissions are currently closed. Thanks to everyone for participating!
+
+The dev team is working on remaking the game in a new crossplatform engine. That will be able to run on iOS / Andriod / Windows easily and will be able to have improved graphics.
+
+Please report any issues, bugs and feature requests with Eden: Universe Builder (EDEN v3.0.0 BETA 1) at gitlab.com/EdenProject/Engine/issues
+
+Spamming and message flooding can be disruptive and annoying to other users, so please don't do it. 
+
+1: Respect other members.
+Refrain from upsetting other users by insult, name calling, denigration, threats, or any form of harassment; there is no reason to act in that manner. This includes peoples' hardware and software choices, many of which are often dicated by personal limitations. If a mod finds your username to be inappropriate you will be asked to change it on this server. If you do not respond within a reasonable period of time (no more than 8 hours), you will be removed from the group (not banned). Feel free to re-join once your username has been changed.
+
+2: Read the channel topics before posting.
+Channel topics can contain useful information or specific rules for the channel.
+
+3: Absolutely no NSFW or illegal content.
+No porn, gore, pirated software, or anything you wouldn't be caught doing at work. Nothing illegal is to be posted here. We judge the term "illegal" to mean anything not legal in nature inside the borders of the USA or most Europeans nations.
+
+4: Server-wide notifications.
+@everyone and @here (as well as any other "all-user" notifications) are not allowed on this server. By default they are disabled. If you have access to these functions, please let a moderator know.
+
+5: Mods/Admin staff policy.
+A) Mods are on an invite-only basis. Please refrain from asking to be promoted.
+B) Mods know all. If you are kicked or banned by one mod, rest assured EVERY mod will know; there is no point in sending a PM to a mod to "let them know".
+C) Mods support the actions of all other mods in the group. If a mod makes a decision or takes action, all other mods will support it.
+D) Mods have been chosen with great care. We do not consider the opinions or suggestions of non-mods when selecting new mods. Mods know what they are doing, and they read almost everything that gets posted in every channel; very little happens without the mods knowing about it.
+E) Mods take action as necessary. If you feel like action should be taken and isn't, privately message a mod but understand they are not required to placate every member and/or request.
