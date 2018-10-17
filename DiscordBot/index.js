@@ -32,14 +32,16 @@ bot.on("guildDelete", guild => {
 
 // Event to listen to messages sent to the server where the bot is located
 bot.on("message", async message => {
-    // So the bot doesn't reply to iteself
+  // So the bot doesn't reply to iteself
 	if(message.author.bot) return;
 
 	// Also good practice to ignore any message that does not start with our prefix,
 	if(message.content.indexOf(prefix) !== 0) return;
 
-    const args = message.content.slice(prefix.length).trim().split(/ +/g);
+  const args = message.content.slice(prefix.length).trim().split(/ +/g);
 	const command = args.shift().toLowerCase();
+
+  console.log(command)
 
 	if(command === "ping") {
 		// Calculates ping between sending a message and editing it, giving a nice round-trip latency.
@@ -68,7 +70,7 @@ bot.on('guildMemberAdd', member => {
     member.guild.ban(member)
     console.log(`SPAM DECTECTED: ${member}`)
     const adminChannel = member.guild.channels.find('name', 'admin-chat');
-    //console.log(adminChannel);
+    console.log(adminChannel);
     adminChannel.send(`SPAM DECTECTED: ${member}`);
   } else {
     const welcomeChannel = member.guild.channels.find('name', 'welcome');
