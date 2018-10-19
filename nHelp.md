@@ -1,0 +1,7 @@
+```NotSoBot Commands```
+  **Fun -** `tag` `magik` `gmagik` `react` `badmeme` `chan` `twall` `aesthetics` `ascii` `iascii` `gascii` `rip` `urban` `triggered` `resize` `meme` `reverse` `identify` `merge` `identify` `emojify` `tone` `emoji` `steamemoji` `eyes` `wordcloud` `tts` `watermark` `cowsay` `gif` `imgur` `glitch` `sort` `jpeg` `pixel` `retro` `waaw` `haah` `woow` `hooh` `flip` `flop` `regional` `webmd` `wasted` `green` `rainbow` `wave` `wall` `rotate` `layer` `multiply` `dice` `shake` `spin` `scramble` `whodidthis` `agar` `agarify` `illegal` `legal` `oil` `xd` `trace` `swirl` `s2s` `utd` `recolor` `edges2porn` `sharpen` `rewind` `smile` `ifunny` `quote` `hawking` `rain` `gold` `exo` `days` `fm`
+  **Search -**`google` `image` `youtube` `duckduckgo` `wolframalpha` `labels`
+  **Utility -**`invite` `update` `die` `status` `say` `server` `debug` `loop` `ping` `avatar` `seenon` `uptime` `info` `cinfo` `gist` `setavatar` `setname` `steam` `sed` `stats` `complain` `compliment` `names` `snames` `remind` `hash` `undo` `screenshot` `char` `rex` `shards` `rpc` `logopt` `afk` `playing` `color` `uncolor` `colors` `addcolors` `removecolors`
+  **Administration -** `welcome` `leave` `pg` `pmentions` `track` `slogs` `clean` `prune` `hackban` `off` `on` `logs` `leave` `nick` `invites` `addrole` `removerole` `mute` `unmute` `pin` `verification` `verify` `safety` `cmd_delete` `mentionspam` `raid` `blacklist` `command` `prefix`
+
+**Usage:** `n!<command> <args>`

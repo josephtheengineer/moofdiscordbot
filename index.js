@@ -7,7 +7,7 @@ const bot = new Discord.Client()
 
 
 const config = require('./config.json')
-const prefix = '+'
+const prefix = 'm!'
 
 //==============================================================================
 // file(command) | Gets a commands output from its text file
@@ -76,9 +76,19 @@ bot.on('message', async message => {
                 		m.edit(`Pong! Latency is ${m.createdTimestamp - message.createdTimestamp}ms. API Latency is ${Math.round(bot.ping)}ms`)
     break;
     case 'help':
-                    for (var i = 0; i < args.length; i++) {
-                      if (args[i] == 'adv') {
-                        message.channel.send(file('help'))
+                    if (args.length <= 0){
+                      message.channel.send(file('help'))
+                    } else {
+                      for (var i = 0; i < args.length; i++) {
+                        if (args[i] == 't' || args[i] == 'tatsumaki') {
+                          message.channel.send(file('tHelp'))
+                        } else if (args[i] == 'n' || args[i] == 'notsobot') {
+                          message.channel.send(file('nHelp'))
+                        }  else if (args[i] == 'r' || args[i] == 'rythm') {
+                          message.channel.send(file('rHelp'))
+                        } else if (args[i] == 'm' || args[i] == 'moof') {
+                          message.channel.send(file('mHelp'))
+                        }
                       }
                     }
     break;
