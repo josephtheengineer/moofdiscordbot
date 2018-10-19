@@ -66,7 +66,7 @@ bot.on('guildMemberAdd', member => {
   // Send the message, mentioning the member
 
   console.log(`Welcome to the server, ${member.displayName}`)
-  if(member.displayName.indexOf("discord.gg") > -1 || member.displayName.indexOf("add me") > -1) {
+  if(member.displayName.indexOf("discord.gg") > -1 || member.displayName.indexOf("add me") > -1 || member.displayName.indexOf("twitch.tv")) {
     member.guild.ban(member)
     console.log(`SPAM DECTECTED: ${member}`)
     const adminChannel = member.guild.channels.find('name', 'admin-chat');
