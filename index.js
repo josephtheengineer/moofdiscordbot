@@ -16,6 +16,98 @@ function file(command){
   return fs.readFileSync(command + '.md','utf8')
 }
 
+async function activity(){
+  bot.user.setPresence({
+      game: {
+          name: `bot started!`,
+          type: "PLAYING"
+      }
+  });
+
+  while(true){
+    await sleep(10000)
+    var x = Math.floor(Math.random() * Math.floor(9));
+    switch (x){
+      case 0:
+                bot.user.setPresence({
+                    game: {
+                        name: `Eden: Universe Builder`,
+                        type: "PLAYING"
+                    }
+                });
+      case 1:
+                bot.user.setPresence({
+                    game: {
+                        name: `to m!help`,
+                        type: "LISTENING"
+                    }
+                });
+      case 2:
+                bot.user.setPresence({
+                    game: {
+                        name: `${bot.users.size} builders!`,
+                        type: "WATCHING"
+                    }
+                });
+      case 3:
+                bot.user.setPresence({
+                    game: {
+                        name: `with Stumpy`,
+                        type: "PLAYING"
+                    }
+                });
+      case 4:
+                bot.user.setPresence({
+                    game: {
+                        name: `edengame.net`,
+                        type: "STREAMING"
+                    }
+                });
+      case 5:
+                bot.user.setPresence({
+                    game: {
+                        name: `r/edengame`,
+                        type: "STREAMING"
+                    }
+                });
+      case 6:
+                bot.user.setPresence({
+                    game: {
+                        name: `gitlab.com/edenproject`,
+                        type: "STREAMING"
+                    }
+                });
+      case 7:
+                bot.user.setPresence({
+                    game: {
+                        name: `discord.me/EdenUniverseBuilder`,
+                        type: "WATCHING"
+                    }
+                });
+      case 8:
+                bot.user.setPresence({
+                    game: {
+                        name: `#bot`,
+                        type: "WATCHING"
+                    }
+                });
+      default:
+                bot.user.setPresence({
+                    game: {
+                        name: `Eden: Universe Builder`,
+                        type: "PLAYING"
+                    }
+                });
+    }
+  }
+}
+
+function sleep(ms){
+    return new Promise(resolve=>{
+        setTimeout(resolve,ms)
+    })
+}
+
 //==============================================================================
 // ready | Gets called when our bot is successfully logged in and connected.
 //==============================================================================
@@ -26,14 +118,13 @@ bot.on('ready', () => {
   console.log( `Bot has started, with ${bot.users.size} users, in ${bot.channels.size} channels of ${bot.guilds.size} guilds.`)
   //channel.send(`Bot has started, with ${bot.users.size} users, in ${bot.channels.size} channels of ${bot.guilds.size} guilds.`)
 
-  bot.user.setActivity(`+help`)
+  activity();
 })
 
 //==============================================================================
 // guildCreate | This event triggers when the bot joins a guild.
 //==============================================================================
 bot.on('guildCreate', guild => {
-  bot.user.setActivity(`+help`)
   console.log(`New guild joined: ${guild.name} (id: ${guild.id}). This guild has ${guild.memberCount} members!`)
 })
 
@@ -41,7 +132,6 @@ bot.on('guildCreate', guild => {
 // guildDelete | This event triggers when the bot is removed from a guild.
 //==============================================================================
 bot.on('guildDelete', guild => {
-  bot.user.setActivity(`+help`)
   console.log(`I have been removed from: ${guild.name} (id: ${guild.id})`)
 })
 
@@ -104,47 +194,49 @@ bot.on('message', async message => {
 //==============================================================================
 bot.on('guildMemberAdd', member => {
   const channel = member.guild.channels.find('name', 'welcome')
+  const adminChannel = member.guild.channels.find('name', 'admin-chat')
   // Do nothing if the channel wasn't found on this server
   if (!channel) return
 
   console.log(`Welcome to the server, ${member.displayName}`)
 
-  if(member.displayName.indexOf('discord.gg') > -1 || member.displayName.indexOf('add me') > -1 || member.displayName.indexOf('twitch.tv')) {
+  if (member.displayName.indexOf('discord.gg') > -1 || member.displayName.indexOf('add me') > -1 || member.displayName.indexOf('twitch.tv') > -1) {
     member.guild.ban(member)
     console.log(`SPAM DECTECTED: ${member}`)
-    const adminChannel = member.guild.channels.find('name', 'admin-chat')
     console.log(adminChannel)
     adminChannel.send(`SPAM DECTECTED: ${member}`)
   } else {
+    bot.user.setPresence({
+        game: {
+            name: `the new guy`,
+            type: "WATCHING"
+        }
+    });
     channel.send(`Welcome ${member} to the discord server for Eden: Universe Builder! :D
 
 Please wait for a <@&468233990642335745> or a <@&468233437115842560> to add you to the trusted members group!`)
   }
-  //channel.send(`Welcome to the server, ${member}`)
 })
 
 //==============================================================================
 // guildMemberRemove | Create an event listener for new guild members
 //==============================================================================
 bot.on('guildMemberRemove', member => {
-  // Send the message to a designated channel on a server:
-  //const channel = member.guild.channels.find('name', 'member-log')
+  const channel = member.guild.channels.find('name', 'welcome')
   // Do nothing if the channel wasn't found on this server
-  //if (!channel) return
-  // Send the message, mentioning the member
+  if (!channel) return
 
   console.log(`We're sorry to see you leaving, ${member.displayName}`)
-  if(member.displayName.indexOf('discord.gg') > -1 || member.displayName.indexOf('add me') > -1) {
-    //member.guild.ban(member)
-    //console.log(`SPAM DECTECTED: ${member}`)
-    //const adminChannel = member.guild.channels.find('name', 'admin-chat')
-    //console.log(adminChannel)
-    //adminChannel.send(`SPAM DECTECTED: ${member}`)
-  } else {
-    const welcomeChannel = member.guild.channels.find('name', 'welcome')
-    welcomeChannel.send(`We're sorry to see you leaving, ${member}`)
+
+  if (!(member.displayName.indexOf('discord.gg') > -1 || member.displayName.indexOf('add me') > -1 || member.displayName.indexOf('twitch.tv') > -1)) {
+    bot.user.setPresence({
+        game: {
+            name: `the player that left`,
+            type: "WATCHING"
+        }
+    });
+    channel.send(`We're sorry to see you leaving, ${member} :cancel:`)
   }
-  //channel.send(`Welcome to the server, ${member}`)
 })
 
 
