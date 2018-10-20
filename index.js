@@ -38,7 +38,7 @@ async function activity(){
       case 1:
                 bot.user.setPresence({
                     game: {
-                        name: `to m!help`,
+                        name: `m!help`,
                         type: "LISTENING"
                     }
                 });
@@ -202,9 +202,9 @@ bot.on('guildMemberAdd', member => {
 
   if (member.displayName.indexOf('discord.gg') > -1 || member.displayName.indexOf('add me') > -1 || member.displayName.indexOf('twitch.tv') > -1) {
     member.guild.ban(member)
-    console.log(`SPAM DECTECTED: ${member}`)
+    console.log(`SPAM DETECTED: ${member}`)
     console.log(adminChannel)
-    adminChannel.send(`SPAM DECTECTED: ${member}`)
+    adminChannel.send(`SPAM DETECTED: ${member}`)
   } else {
     bot.user.setPresence({
         game: {
