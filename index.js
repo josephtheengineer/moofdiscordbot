@@ -152,7 +152,11 @@ bot.on('message', async message => {
     args = message.content.slice(prefix.length).trim().split(/ +/g)
   	command = args.shift().toLowerCase()
   } else {
-    args = message.content.trim().split(/ +/g)
+    if (message.content.indexOf(prefix) == 0){
+      args = message.content.slice(prefix.length).trim().split(/ +/g)
+    } else {
+      args = message.content.trim().split(/ +/g)
+    }
     command = args.shift().toLowerCase()
   }
 
