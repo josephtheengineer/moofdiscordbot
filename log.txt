@@ -433,3 +433,9 @@ Repository Event |
 Joseph The Engineer | help <:cancel:484597542894567436>
 Enderstripe | You need helo leaving the server
 Enderstripe | Click ... In a section whete you pick channels and click "leave the server"
+Moof | Welcome <@504033981881253910> to the discord server for Eden: Universe Builder! :D
+
+Please wait for a <@&468233437115842560> to add you to the trusted members group!
+twitter.com/memesworldwide_ | 
+Moof | We're sorry to see you leaving, <@504033981881253910> :cancel:
+Repository Event | 

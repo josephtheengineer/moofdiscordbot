@@ -232,7 +232,7 @@ bot.on('guildMemberAdd', member => {
 
   console.log(`Welcome to the server, ${member.displayName}`)
 
-  if (member.displayName.indexOf('discord.gg') > -1 || member.displayName.indexOf('add me') > -1 || member.displayName.indexOf('twitch.tv') > -1 || member.displayName.indexOf('discord.me') > -1) {
+  if (member.displayName.indexOf('discord.gg') > -1 || member.displayName.indexOf('add me') > -1 || member.displayName.indexOf('twitch.tv') > -1 || member.displayName.indexOf('discord.me') > -1 || member.displayName.indexOf('.com') > -1) {
     member.guild.ban(member)
     console.log(`SPAM DETECTED: ${member}`)
     console.log(adminChannel)
@@ -260,7 +260,7 @@ bot.on('guildMemberRemove', member => {
 
   console.log(`We're sorry to see you leaving, ${member.displayName}`)
 
-  if (!(member.displayName.indexOf('discord.gg') > -1 || member.displayName.indexOf('add me') > -1 || member.displayName.indexOf('twitch.tv') > -1 || member.displayName.indexOf('discord.me') > -1)) {
+  if (!(member.displayName.indexOf('discord.gg') > -1 || member.displayName.indexOf('add me') > -1 || member.displayName.indexOf('twitch.tv') > -1 || member.displayName.indexOf('discord.me') > -1 || member.displayName.indexOf('.com') > -1)) {
     bot.user.setPresence({
         game: {
             name: `the player that left`,
