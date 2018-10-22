@@ -267,7 +267,7 @@ bot.on('guildMemberRemove', member => {
             type: "WATCHING"
         }
     })
-    channel.send(`We're sorry to see you leaving, ${member} :cancel:`)
+    channel.send(`We're sorry to see you leaving, ${member} <:cancel:484597542894567436>`)
   }
 })
 
