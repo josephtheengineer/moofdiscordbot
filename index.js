@@ -236,14 +236,14 @@ bot.on('guildMemberAdd', member => {
     member.guild.ban(member)
     console.log(`SPAM DETECTED: ${member}`)
     console.log(adminChannel)
-    adminChannel.send(`SPAM DETECTED: ${member}`)
-  } else {
+    //adminChannel.send(`SPAM DETECTED: ${member}`)
+  } else {/*
     bot.user.setPresence({
         game: {
             name: `the new guy`,
             type: "WATCHING"
         }
-    })
+    })*/
     channel.send(`Welcome ${member} to the discord server for Eden: Universe Builder! :D
 
 Please wait for a <@&468233437115842560> to add you to the trusted members group!`)
@@ -261,12 +261,12 @@ bot.on('guildMemberRemove', member => {
   console.log(`We're sorry to see you leaving, ${member.displayName}`)
 
   if (!(member.displayName.indexOf('discord.gg') > -1 || member.displayName.indexOf('add me') > -1 || member.displayName.indexOf('twitch.tv') > -1 || member.displayName.indexOf('discord.me') > -1 || member.displayName.indexOf('.com') > -1)) {
-    bot.user.setPresence({
+/*    bot.user.setPresence({
         game: {
             name: `the player that left`,
             type: "WATCHING"
         }
-    })
+    })*/
     channel.send(`We're sorry to see you leaving, ${member} <:cancel:484597542894567436>`)
   }
 })

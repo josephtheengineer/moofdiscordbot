@@ -439,3 +439,119 @@ Please wait for a <@&468233437115842560> to add you to the trusted members group
 twitter.com/memesworldwide_ | 
 Moof | We're sorry to see you leaving, <@504033981881253910> :cancel:
 Repository Event | 
+Repository Event | 
+selly.gg/p/8e800300 | 
+Moof | Welcome <@504028495022784512> to the discord server for Eden: Universe Builder! :D
+
+Please wait for a <@&468233437115842560> to add you to the trusted members group!
+Moof | We're sorry to see you leaving, <@504028495022784512> <:cancel:484597542894567436>
+Joseph The Engineer | Huh looks like one of the bots created their own invite
+Joseph The Engineer | 
+Enderstripe | That explains a lot
+twitter.com/senseibin | 
+Moof | SPAM DETECTED: <@504040086833332224>
+Tatsumaki | 
+Enderstripe | You can revoke any one thankfully
+twitter.com/memesworldwide_ | 
+Moof | SPAM DETECTED: <@504033981881253910>
+Tatsumaki | 
+Joseph The Engineer | t@notify
+Tatsumaki | <:info:390511462361202688> | **Channel Notifications Menu - #admin-news**
+
+```rb
+Setup notifications for this channel
+
+Ban & Kick notifications are enabled in #admin-news
+Username & nickname notifications are disabled in #admin-news
+Voice channel notifications are disabled in #admin-news
+Server Join & Leave notifications are disabled in #admin-news
+
+[1] # Disable ban & kick notifications
+[2] # Enable username & nickname change notifications
+[3] # Enable voice channel notifications
+[4] # Enable server join & leave notifications
+
+Type the appropriate number to access the menu.
+Type 'exit' to leave the menu.
+```
+Joseph The Engineer | 1
+Tatsumaki | 🔕  |  Ban & Kick notifications are disabled in **#admin-news**
+blockmaster1 | \
+blockmaster1 | \\
+blockmaster1 | \
+Joseph The Engineer | \
+Joseph The Engineer | t@prune 4
+Tatsumaki | 🗑  |  **Joseph The Engineer**, successfully deleted 4 messages from this channel!
+Enderstripe | Will anyone be interested in Instagram page of GOE
+Samara | <@336567873990426636> Actually Gunni is a quick builder. You know I like taking track of Worlds and there progresses
+Enderstripe | I am SLOW
+Samara | i found the preview worlds of atlantis raising. he took 2 weeks to finish them
+Enderstripe | Yeah
+Martin | I am very slow
+Samara | before that he built highway to hell
+Enderstripe | Thats correct
+Enderstripe | Wow
+Samara | and between that he took a break of two month
+Enderstripe | Highway to Hell; how long did he build?
+Samara | i dunno, but I assume maybe 2 to 3 weeks aswell
+Samara | I mean its a project
+Samara | not an entire city
+Enderstripe | Ik
+Enderstripe | It took me at least 64 hours to build my underground tunnel to the way it is now. 24 hours in first three days
+Samara | well maybe your progress is unefficient
+Enderstripe | Wym
+Samara | if you work on something you probably do it in a way you would need way more time
+Enderstripe | Probably
+Enderstripe | I'm going to remove a lake in my world and put a jungle there.
+Martin | With fly mode it will take so less time
+Enderstripe | Yes
+Enderstripe | When i was renovating the tunnel (in 1'8) i made a secert tunnel that basically go to the other side fast
+Enderstripe | Like really fast
+Enderstripe | I needed that bad when i was building it in 1'3
+Jeremy | I am figuring out how to make maps, I have been testing using and old eden city version.
+honda hater discord.gg/TEW6xMK | 
+Moof | SPAM DETECTED: <@502675663812296725>
+Dblcut3 | yay! Make sure you post some of your results lol
+Dblcut3 | Hello Edeners! <:moof_icon:484597539383934976> I'm going to be in charge of compiling a list of worlds to add to a new featured list. We are looking for updates to current worlds on the list and new worlds that you believe should be included in the list.
+Dblcut3 | Hello Edeners! <:moof_icon:484597539383934976> I'm going to be in charge of compiling a list of worlds to add to a new featured list. We are looking for updates to current worlds on the list and new worlds that you believe should be included in the list.
+
+
+Again, if your world is already on the list, do not expect us to automatically update it! You will have to re-submit the world here. If you submit a world that is not yours, that is 100% okay and is actually encouraged - so in other words, try to find some good worlds! (preferably newer ones)
+
+
+To submit your world, please visit http://app.edengame.net/search.html and search your world. You will have to copy and paste your world’s .name and .eden files (your .eden file is always above the .name file). We also ask you to post a screenshot of the uploaded world in game, but this is not required. If you have trouble with this process, please direct message me. 
+
+
+The deadline for submissions to this featured list update will be November 1, 2018. We are not too strict with criteria, so do not be afraid to submit your world, whether you think it is good or bad.
+Dblcut3 | 
+Dblcut3 | **Attention** Please visit <#504072417035943939> to submit your world or update to the featured list! More information can be found in the pinned post on that channel!
+Enderstripe | 1540130351.eden 
+Garden of Eden 1'8.name
+Enderstripe | That way?
+the spammer is binzy 0160 | 
+Moof | Welcome <@504057429961605150> to the discord server for Eden: Universe Builder! :D
+
+Please wait for a <@&468233437115842560> to add you to the trusted members group!
+Moof | We're sorry to see you leaving, <@504057429961605150> <:cancel:484597542894567436>
+Enderstripe | <@212611882803134464> is that how i do it?
+twitch.tv/thunkyouup | 
+Moof | SPAM DETECTED: <@503754773263024128>
+Dblcut3 | Yep! But just a warning - I will not take another updated version of your world before November 3rd. So make sure you will not release another update before the deadline because the one you just submitted will be the final one I use.
+Dblcut3 | <@356560403947454464>
+Enderstripe | Okay
+Enderstripe | Ill prob finish it in like end of November
+Enderstripe | Lol
+Jeremy | t!daily
+Tatsumaki | 🏧 | **Jeremy**, **you received your 💴 200 daily credits!**
+
+**Streak: <:b_:400807295363317760><:o_:400807295833079808><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+Jeremy | When you guys say you want mountains what are you expecting?
+•••santiago••• | Yes you can also do by only dividing line ice block but makig all ice makes it way easier as you dont fall of the ice
+•••santiago••• | So the idea in Frabanta now is that you have highways and a few avenues like that to go faster around while secondary streets are like always with center ice block
+Dblcut3 | i guess just tall mountains with unique shapes
+Dblcut3 | but im sure thats nearly impossible
+dev once more | 
+Moof | Welcome <@375475837388193793> to the discord server for Eden: Universe Builder! :D
+
+Please wait for a <@&468233437115842560> to add you to the trusted members group!
+Joseph The Engineer | Welcome <@375475837388193793>! 👋
