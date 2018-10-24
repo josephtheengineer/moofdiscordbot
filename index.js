@@ -252,7 +252,7 @@ bot.on('guildMemberAdd', member => {
     }) */
     channel.send(`Welcome ${member} to the discord server for Eden: Universe Builder! :D
 
-Please wait for a <@&468233437115842560> to add you to the trusted members group!`)
+Please wait for a @Moderator or a <@&468233437115842560> to add you to the trusted members group!`)
   }
 })
 
