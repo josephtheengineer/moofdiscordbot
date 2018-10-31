@@ -14,29 +14,18 @@ JosephTheEngineer's Twitter: https://twitter.com/JosephTheEngi
 
 **==== Roles ====**
 
-**Administrator**
-Administrators are people whom control everything in the server. Do not mess with them.
-
-**Moderator**
-Moderators are people whom are overseeing the server. They know what they are doing; they read everything in the server and a little may pass by without the mods knowing. Please do not ask to be promoted to a mod. More information about moderator policy above.
-
-**Developer**
-Developers are people whom are making a fork version of Eden: World Builder. To get this role, join the dev team.
-
 **Builder**
-Builders are people whom are actively building their world.  They will get special perks, they will get their own channel where they can post updates and news about their world.  They will get a special exclusive pink color. You may ping a @Moderator and ask for the role, but you MUST be the owner of a world you’re building.
-
-**Color Roles**
-To get a color role, type `t!selfrole get color: (color)`. If a color isn't available, ping a @Moderator and you might get it. Note not all colors are available.
+Builders are people who are actively building their world.  They will get special perks, they will get their own channel where they can post updates and news about their world.  They will get a special exclusive pink color. You may ping a @Moderator and ask for the role, but you MUST be the owner of a world you’re building.
 
 **Leveled Roles List**
-[1]  |  Veteran (1000 points)
-[2]  |  Architect (3000 points)
-[3]  |  Overlord (6000 points)
-[4]  |  Supreme Leader (10000 points)
-[5]  |  Legendary Explorer (15000 points)
-[6]  |  Intergalactic Ruler (21000 points)
-[7]  |  Interdimensional God (27000 points)
+`[1]`  |  Veteran (1000 points)
+`[2]`  |  Architect (3000 points)
+`[3]`  |  Overlord (6000 points)
+`[4]`  |  Supreme Leader (10000 points)
+`[5]`  |  Legendary Explorer (15000 points)
+`[6]`  |  Intergalactic Ruler (21000 points)
+`[7]`  |  Interdimensional God (27000 points)
+`[8]`  |  Mysterious Wizard (34000 points)
 
 **==== Rules ====**
 
