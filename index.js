@@ -8,6 +8,7 @@ const config = require('./config.json')
 const prefix = 'm!'
 // var msgSent = false
 
+try {
 // ==============================================================================
 // file(command) | Gets a commands output from its text file
 // ==============================================================================
@@ -243,16 +244,10 @@ bot.on('guildMemberAdd', member => {
     console.log(`SPAM DETECTED: ${member}`)
     console.log(adminChannel)
     // adminChannel.send(`SPAM DETECTED: ${member}`)
-  } else { /*
-    bot.user.setPresence({
-        game: {
-            name: `the new guy`,
-            type: "WATCHING"
-        }
-    }) */
+  } else {
     channel.send(`Welcome ${member} to the discord server for Eden: Universe Builder! :D
 
-Please wait for a @Moderator or a <@&468233437115842560> to add you to the trusted members group!`)
+Please wait for a Moderator or a <@&468233437115842560> to add you to the trusted members group!`)
   }
 })
 
@@ -278,3 +273,6 @@ bot.on('guildMemberRemove', member => {
 })
 
 bot.login(config.token)
+} catch {
+
+}

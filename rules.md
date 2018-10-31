@@ -40,26 +40,29 @@ To get a color role, type `t!selfrole get color: (color)`. If a color isn't avai
 
 **==== Rules ====**
 
+**0: Be nice to each other.**
+*(Punishment: Permanent mute)*
+
 **1: No spamming.**
-Spamming and message flooding is disruptive to other users and the server. Moderators will not hesitate to ban you on first offence.
+b) Mods are on an invite-only basis. Please refrain from asking to be promoted.
+c) Staff reserve the right to punish any individual within violation of these rules. Arguing about punishments of any sort will not be tolerated.
+*(Punishment: Permanent mute)*
 
 **2: Respect other members.**
-Refrain from upsetting other users by insult, name calling, denigration, threats, or any form of harassment; there is no reason to act in that manner. If a mod finds your username to be inappropriate you will be asked to change it on this server.
+Refrain from upsetting other users by insult, threats, or any form of harassment.
+*(1st offense: Warn) (2nd offense: Permanent mute)*
 
 **3: Read the channel topics before posting.**
 Please chat in the right channels in order to keep the server organized.
+*(Punishment: Warn)*
 
 **4: No NSFW or illegal content.**
-No, porn or pirated software. Nothing illegal is to be posted on any channel.
-
-**5: Mentions**
-Use of all-user mentions such as everyone and here are not allowed on this server except for use by admins.
+b) If a mod finds your username to be inappropriate you will be asked to change it on this server.
+*(1st offense: warn) (2nd offense: Permanent mute)*
 
 **6: Mods and Admin staff policy.**
-a) Mods are on an invite-only basis. Please refrain from asking to be promoted.
-b) Mods know all. If you are kicked or banned by one mod, rest assured EVERY mod will know.
-c) Mods have been chosen with great care. We do not consider the opinions or suggestions of non-mods when selecting new mods. Mods know what they are doing, and they read almost everything that gets posted in every channel; very little happens without the mods knowing about it.
-d) Mods take action as necessary. If you feel like action should be taken and isn't, privately message a mod.
+a) Mods know all. If you are kicked or banned by one mod, rest assured every mod will know.
+b) Mods take action as necessary. If you feel like action should be taken and isn't, privately message a mod.
 
 **==== Welcome! ====**
 
