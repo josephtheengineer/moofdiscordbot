@@ -17,7 +17,7 @@ JosephTheEngineer's Twitter: https://twitter.com/JosephTheEngi
 **Builder**
 Builders are people who are actively building their world.  They will get special perks, they will get their own channel where they can post updates and news about their world.  They will get a special exclusive pink color. You may ping a @Moderator and ask for the role, but you MUST be the owner of a world you’re building.
 
-**Leveled Roles List**
+**Rank Roles**
 `[1]`  |  Veteran (1000 points)
 `[2]`  |  Architect (3000 points)
 `[3]`  |  Overlord (6000 points)
@@ -28,8 +28,6 @@ Builders are people who are actively building their world.  They will get specia
 `[8]`  |  Mysterious Wizard (34000 points)
 
 **==== Rules ====**
-
-**0: Be nice to each other.**
 
 **1: No spamming.**
 b) Mods are on an invite-only basis. Please refrain from asking to be promoted.
