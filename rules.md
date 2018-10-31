@@ -41,24 +41,19 @@ To get a color role, type `t!selfrole get color: (color)`. If a color isn't avai
 **==== Rules ====**
 
 **0: Be nice to each other.**
-*(Punishment: Permanent mute)*
 
 **1: No spamming.**
 b) Mods are on an invite-only basis. Please refrain from asking to be promoted.
 c) Staff reserve the right to punish any individual within violation of these rules. Arguing about punishments of any sort will not be tolerated.
-*(Punishment: Permanent mute)*
 
 **2: Respect other members.**
 Refrain from upsetting other users by insult, threats, or any form of harassment.
-*(1st offense: Warn) (2nd offense: Permanent mute)*
 
 **3: Read the channel topics before posting.**
 Please chat in the right channels in order to keep the server organized.
-*(Punishment: Warn)*
 
 **4: No NSFW or illegal content.**
 b) If a mod finds your username to be inappropriate you will be asked to change it on this server.
-*(1st offense: warn) (2nd offense: Permanent mute)*
 
 **6: Mods and Admin staff policy.**
 a) Mods know all. If you are kicked or banned by one mod, rest assured every mod will know.
