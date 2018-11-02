@@ -48,16 +48,18 @@ b) Mods take action as necessary. If you feel like action should be taken and is
 
 **==== Welcome! ====**
 
-Welcome to the official Discord server for the continuation of Eden - an iOS game that was open sourced by its original creator Ari Ronen in early 2018. Major forks are currently licensed under the GNU General Public License v3 unless otherwise noted.
+Welcome to the official Discord server for Eden: Universe Builder :wave:, a fork of Eden: World Builder.
+Eden is a game that enables artistic expression in a new way. Build, destroy and explore your way through endless worlds. Eden: World Builder is currently available on the Apple Store.
+
+Ever since Ari Ronen open-sourced Eden in early 2018 their has been multiple attempts to update the game.
+Eden: Universe Builder is a fork of the game in Unreal Engine 4 (C++) and the development team is working hard on remaking the game in this new cross-platform engine that will be launched to iOS, Android and PC. The goal of the remake is to keep the essence of the game as close to  the original as possible.
 
 **^^^ Scroll up for important links and rules ^^^**
-Color roles are now enabled! For example just type `t!selfrole get color: blue` to get a blue color! Just replace blue with the color you want. (If your color doesn't exist, message a moderator and they will add it for you!)
+Want a color for your username? You can type `t!selfrole get color: coloryouwant`. If you want a color that doesn't exist, message a moderator and they will add it for you!
 
-If you need some info about Eden, the Eden Wiki has a ton of information on pretty much everything including popular worlds, blocks, creatures, ect. It also needs some editing, so if anyone wants to help, feel free to! edenworldbuilder.wikia.com
+If you need some info about Eden, the Eden Wiki has a ton of information on pretty much everything including popular worlds, blocks, creatures and more! It also needs some editing, so if anyone wants to help, feel free to! edenworldbuilder.wikia.com
 
-The dev team is working on remaking the game in a new crossplatform engine. That will be able to run on iOS / Andriod / Windows easily and will be able to have improved graphics.
-
-Please report any issues, bugs and feature requests with Eden: Universe Builder (EDEN v3.0.0 BETA 1) at gitlab.com/EdenProject/Engine/issues
+Please report any issues or bugs to the official Eden: Universe Builder repository: gitlab.com/EdenProject/Engine/issues
 
 
 **Offical invite link:** discord.me/EdenUniverseBuilder        OR         discord.gg/fJae5at
