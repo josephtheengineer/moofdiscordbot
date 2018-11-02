@@ -49,7 +49,7 @@ b) Mods take action as necessary. If you feel like action should be taken and is
 **==== Welcome! ====**
 
 Welcome to the official Discord server for Eden: Universe Builder :wave:, a fork of Eden: World Builder.
-Eden is a game that enables artistic expression in a new way. Build, destroy and explore your way through endless worlds. Eden: World Builder is currently available on the Apple Store.
+Eden: World Builder is a block-based sandbox building game for the iPad, iPhone, and iPod Touch. Eden was created by Ari Ronen, and his company Kingly Software Inc, better known as Kingly Games. It was open sourced in early 2018 and is now being developed by the community. Since its release in 2010, it has sold over three million copies.
 
 Ever since Ari Ronen open-sourced Eden in early 2018 their has been multiple attempts to update the game.
 Eden: Universe Builder is a fork of the game in Unreal Engine 4 (C++) and the development team is working hard on remaking the game in this new cross-platform engine that will be launched to iOS, Android and PC. The goal of the remake is to keep the essence of the game as close to  the original as possible.
